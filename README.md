@@ -39,15 +39,19 @@ Mudança de estado controlada: Cada pressão de botão A ou B altera o número e
 Finalização e reinício: O sistema continua operando aguardando novas interações.
 
 # Resultados Obtidos
-Os testes demonstraram que:
+A implementação do projeto possibilitou a validação dos conceitos estudados, resultando nos seguintes avanços:
 
-O controle de LEDs e botões via interrupções funcionou corretamente.
+1) Foi possível compreender e aplicar corretamente o uso de interrupções em microcontroladores, garantindo uma resposta eficiente aos eventos externos, como o acionamento do botão.
 
-O debounce garantiu acionamentos precisos, evitando ruídos.
+2) O efeito de bouncing nos botões foi identificado e corrigido com sucesso utilizando técnicas de debouncing via software, resultando em leituras estáveis e confiáveis.
 
-A implementação no BitDogLab permitiu validar a simulação de forma eficiente.
+3) Os LEDs convencionais e os LEDs endereçáveis WS2812 foram manipulados e controlados conforme esperado, demonstrando o funcionamento adequado tanto na sinalização básica quanto no acionamento sequencial via comunicação digital.
 
-#LInk do vídeo: 
+4) O uso de resistores de pull-up internos nos botões de acionamento foi testado e comprovado, garantindo que os sinais de entrada se mantivessem em níveis lógicos corretos e evitando leituras indevidas.
+
+5) O projeto final apresentou um funcionamento estável e eficiente, integrando hardware e software de maneira coesa, reforçando os conceitos adquiridos e proporcionando um aprendizado prático essencial para o desenvolvimento de sistemas embarcados.
+
+# LInk do vídeo: 
 
 # Encerramento
 
