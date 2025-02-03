@@ -51,7 +51,7 @@ A implementação do projeto possibilitou a validação dos conceitos estudados,
 
 5) O projeto final apresentou um funcionamento estável e eficiente, integrando hardware e software de maneira coesa, reforçando os conceitos adquiridos e proporcionando um aprendizado prático essencial para o desenvolvimento de sistemas embarcados.
 
-# LInk do vídeo: 
+# LInk do vídeo: https://drive.google.com/file/d/1NVTF-MDwqoxRQnMoFWwd6ZU2-7fnOzj_/view?usp=sharing
 
 # Encerramento
 
